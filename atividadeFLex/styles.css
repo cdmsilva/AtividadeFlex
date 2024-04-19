@@ -1,0 +1,23 @@
+
+.flex_container{
+    display: flex;
+    justify-content: space-between;
+}
+
+div{
+    position: static;
+    background-color: #FFE4C4;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    position: static;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: #B7504A;
+    font-family: 'Times New Roman';
+    padding: 10px;
+}
